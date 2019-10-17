@@ -7,7 +7,7 @@ We start with an existing Thunkable X project:
 https://x.thunkable.com/copy/478ba55b51ae0c917a632b0955aa4541
  and REMIX it.  This saves considerable "cut & paste" and file copying time that would be better used discussing development!
 
-The ASSETS folder within this repository includes all of the files that need to be "browsed in" as file assets for this Thunkable X project.  By remixing the existing project using the URL above, the assets should "come along" with the project, but if they don't, you can utilize the folder here and browse them into your own project.
+The ASSETS folder within this repository includes all of the files that need to be "browsed in" as file assets for this Thunkable X project.  By remixing the existing project using the URL above, the assets should "come along" with the remixed project, but if they don't, you can utilize the folder here and browse them into your own project.
 
 Other files in this repository:
 
