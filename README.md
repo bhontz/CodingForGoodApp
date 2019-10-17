@@ -5,7 +5,7 @@ This GITHUB repository supports the **GSOC's Coding for Good App Badge event**. 
 
 We start with an existing Thunkable X project:
 https://x.thunkable.com/copy/478ba55b51ae0c917a632b0955aa4541
-... and REMIX it.  This saves considerable "cut & paste" and file copying time that would be better used discussing development!
+ and REMIX it.  This saves considerable "cut & paste" and file copying time that would be better used discussing development!
 
 The ASSETS folder within this repository includes all of the files that need to be "browsed in" as file assets for this Thunkable X project.  By remixing the existing project using the URL above, the assets should "come along" with the project, but ff they don't, you can utilize the folder here and browse them into your own project.
 
@@ -20,5 +20,7 @@ Other files in this repository:
 **EventSlideDeck.pdf**  Event teacher's presentation materials.  Note that you will need considerable discussion above and beyond the content with this deck.
 
 **PaperPrototypingTemplate.pdf** Template that you can distribute to attendees for their Paper Prototype.
+
+DISCLAIMER: I am a volunteer for the Girl Scouts of Orange County, and not a paid staff member of Girl Scouts of America.
 
 > Written with [StackEdit](https://stackedit.io/).
