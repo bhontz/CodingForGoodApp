@@ -1,0 +1,17 @@
+https://pinpoint-fileshare.s3-us-west-2.amazonaws.com/sndgirlscoutpromise.mp3
+
+https://pinpoint-fileshare.s3-us-west-2.amazonaws.com/sndgirlscoutlaw.mp3
+
+Honest,Fair,Friendly,Helpful,Considerate,Caring,Courageous
+
+,Strong,Responsible,Respectful,A Wise User of Resources
+
+["Anna",103],["Sara",92],["Emily",79]
+
+data:text/html,<meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<html><head><script type = "text/javascript" src = "https://www.gstatic.com/charts/loader.js"></script>
+<script>google.charts.load('current', {packages: ['corechart']});</script></head><body><div id = "ourchart" style="width:90%;height:90%;"></div><script>
+function drawChart() {var data = new google.visualization.DataTable();data.addColumn('string','Girls');data.addColumn('number','Boxes');data.addRows([
+
+]);var options = {title: "My Troop Cookie Sales", legend:'none', hAxis:{minValue:0}};var chart = new google.visualization.BarChart(document.getElementById('ourchart'));chart.draw(data, options);}
+google.charts.setOnLoadCallback(drawChart);</script></body></html>
