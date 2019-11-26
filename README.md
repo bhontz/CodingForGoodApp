@@ -5,7 +5,7 @@
 This GITHUB repository supports the **GSOC's Coding for Good App Badge event**.  The event was designed to teach 5th grade juniors through senior Girl Scouts above the phone app development process and challenges, while allowing the girls to earn the GS Coding for Good - App badge.   The event utilizes the [Thunkable X coding platform](https://thunkable.com/).
 
 We start with an existing Thunkable X project:
-https://x.thunkable.com/copy/478ba55b51ae0c917a632b0955aa4541
+https://x.thunkable.com/copy/b0ae1ef242e773f138bd06bfca0936e7
  and REMIX it.  This saves considerable "cut & paste" and file copying time that would be better used discussing development!
 
 The ASSETS folder within this repository includes all of the files that need to be "browsed in" as file assets for this Thunkable X project.  By remixing the existing project using the URL above, the assets should "come along" with the remixed project, but if they don't, you can utilize the folder here and browse them into your own project.
@@ -22,7 +22,7 @@ Other files in this repository:
 
 **PaperPrototypingTemplate.pdf** Template that you can distribute to attendees for their Paper Prototype.
 
-DISCLAIMER: I am a volunteer for the Girl Scouts of Orange County, and not a paid staff member of Girl Scouts of America.
+DISCLAIMER: I am a volunteer for the Girl Scouts of Orange County, and not a paid staff member of Girl Scouts of America or Girl Scouts of Orange County.
 
 > Written with [StackEdit](https://stackedit.io/).
 
