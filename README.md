@@ -22,6 +22,9 @@ Other files in this repository:
 
 **PaperPrototypingTemplate.pdf** Template that you can distribute to attendees for their Paper Prototype.
 
+Here are photos from the December, 2019 Girl Scouts of Orange County Badge Earning Event!: https://photos.app.goo.gl/VSbCdrLLNDHwu4tr9
+
+
 DISCLAIMER: I am a volunteer for the Girl Scouts of Orange County, and not a paid staff member of Girl Scouts of America or Girl Scouts of Orange County.
 
 > Written with [StackEdit](https://stackedit.io/).
